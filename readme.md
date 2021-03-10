@@ -1,3 +1,9 @@
+## 책
+ - Nodejs : https://drive.google.com/drive/u/1/folders/1FuC_7mvQIjZzsp0QaW1pKPBd9p3y3tmN
+
+ - Typescript : https://drive.google.com/drive/u/1/folders/1RtYRhM1eBD8-vB33PLwbQb7Tfb7Wt7Qx
+
+
 http://www.easyspub.co.kr
 << 자료실 (회원가입 무료)
 
